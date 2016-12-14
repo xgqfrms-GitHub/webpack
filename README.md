@@ -1,4 +1,4 @@
-# webpack-howto
+# webpack-how-to
 
 ## Goal of this guide
 
